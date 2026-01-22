@@ -36,6 +36,13 @@
                         About
                     </a>
                 </li>
+                
+                <li>
+                    <a href="{{ route('doctors') }}"
+                        class="{{ request()->routeIs('doctors') ? 'active' : '' }}">
+                        Doctors
+                    </a>
+                </li>
 
                 <li>
                     <a href="{{ route('specilities') }}"

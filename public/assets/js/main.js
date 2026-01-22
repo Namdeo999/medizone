@@ -144,4 +144,32 @@
     });
   });
 
+
+
+    /**
+   * Open doctor tab based on URL hash
+   * Example: /doctors#dr-puneet
+   */
+  window.addEventListener('load', function () {
+    const hash = window.location.hash;
+
+    if (hash) {
+      const tabTrigger = document.querySelector(
+        `[data-bs-target="${hash}"]`
+      );
+
+      if (tabTrigger) {
+        const tab = new bootstrap.Tab(tabTrigger);
+        tab.show();
+
+        // Optional: smooth scroll to doctors section
+        const doctorsSection = document.querySelector('#doctors-tabs');
+        if (doctorsSection) {
+          doctorsSection.scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }
+  });
+
 })();
+

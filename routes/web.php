@@ -26,3 +26,7 @@ Route::get('/services', function () {
 Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
+
+Route::get('/doctors', function () {
+    return view('doctors');
+})->name('doctors');
