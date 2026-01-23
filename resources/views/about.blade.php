@@ -7,7 +7,7 @@
 
     <section id="about" class="about section-padding">
         <div class="container">
-            <div class="row  align-items-center gy-5">
+            <div class="row  align-items-center gy-5 ">
                 <!-- Left Image -->
                 <div class="col-lg-6 order-1 order-lg-0">
                     <div class="about-img position-relative text-center text-lg-start">
@@ -87,7 +87,7 @@
     </section>
 
 
-    <section id="specialties" class="specialties section-padding">
+     <section id="featured-departments" class="featured-departments section">
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
@@ -96,42 +96,56 @@
         </div>
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
-            <div class="row g-5">
 
+            <div class="row g-5">
                 <!-- General Surgery -->
-                <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
+                <!-- General Surgery -->
+                <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
                     <div class="specialty-card">
                         <div class="specialty-content">
                             <div class="specialty-meta">
-                                <span class="specialty-label ">Surgical Excellence</span>
+                                <span class="specialty-label">Surgical Excellence</span>
                             </div>
-                            <h3>General Surgery</h3>
+
+                            <h3>General Surgery Department</h3>
+
                             <p>
-                                Comprehensive surgical care including minimally invasive procedures and open surgeries,
-                                performed by experienced surgeons in modern operation theaters. Our team ensures fast
-                                recovery
-                                with personalized post-operative care.
+                                Comprehensive surgical care including advanced diagnostics, minimally invasive laparoscopic
+                                procedures, and open surgeries performed by highly experienced surgeons using modern
+                                operation theaters and safety protocols.
                             </p>
+
                             <div class="specialty-features">
-                                <span><i class="bi bi-check-circle-fill"></i>Minimally Invasive & Laparoscopic
-                                    Surgery</span>
-                                <span><i class="bi bi-check-circle-fill"></i>Advanced Post-Operative Care</span>
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                    Minimally Invasive & Laparoscopic Surgery
+                                </span>
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                    Advanced Post-Operative Care
+                                </span>
                             </div>
-                            <a href="#" class="specialty-link">
-                                Learn More <i class="bi bi-arrow-right"></i>
+
+                            <a href="/services" class="specialty-link">
+                                View General Surgery Services <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
+
                         <div class="specialty-visual">
-                            <img src="assets/img/specialties/general-surgery.jpg" alt="General Surgery" class="img-fluid">
+                            <img src="assets/img/specialties/general-surgery.jpg" alt="General Surgery Department"
+                                class="img-fluid">
                             <div class="visual-overlay">
                                 <i class="bi bi-hospital"></i>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- End Specialty Card -->
+
+
 
                 <!-- Trauma Care -->
-                <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="200">
+                <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
                     <div class="specialty-card">
                         <div class="specialty-content">
                             <div class="specialty-meta">
@@ -162,7 +176,7 @@
                 </div>
 
                 <!-- Orthopedics -->
-                <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="300">
+                <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
                     <div class="specialty-card">
                         <div class="specialty-content">
                             <div class="specialty-meta">
@@ -192,7 +206,7 @@
                 </div>
 
                 <!-- Urology -->
-                <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="400">
+                <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
                     <div class="specialty-card">
                         <div class="specialty-content">
                             <div class="specialty-meta">
@@ -222,7 +236,7 @@
                 </div>
 
                 <!-- ENT Services -->
-                <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="500">
+                <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="500">
                     <div class="specialty-card">
                         <div class="specialty-content">
                             <div class="specialty-meta">
@@ -252,7 +266,7 @@
                 </div>
 
                 <!-- Physiotherapy -->
-                <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="600">
+                <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
                     <div class="specialty-card">
                         <div class="specialty-content">
                             <div class="specialty-meta">

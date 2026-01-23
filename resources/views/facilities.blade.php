@@ -3,7 +3,7 @@
 
 @section('content')
     <!-- Start Tab Based Specialties -->
-    @extends('layouts.app')
+  
 
     <section id="facilities" class="facilities section-padding">
         <div class="container">
