@@ -67,7 +67,7 @@
 
                         <!-- Actions -->
                         <div class="hero-actions" data-aos="fade-right" data-aos-delay="600">
-                            <a href="/contact" class="btn btn-primary">Book Appointment</a>
+                            <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn btn-primary">Book Appointment</a>
                             <a href="/services" class="btn btn-outline glightbox">
                                 <i class="bi bi-play-circle me-2"></i>
                                 Explore Our Services
@@ -225,7 +225,9 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Featured Departments</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+            <p>Providing quality healthcare services with a patient-first approach, modern facilities, and experienced
+                specialists.</p>
+
         </div><!-- End Section Title -->
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -238,21 +240,21 @@
                             <div class="specialty-meta">
                                 <span class="specialty-label">Specialized Care</span>
                             </div>
-                            <h3>Cardiovascular Medicine</h3>
-                            <p>Advanced diagnostic imaging and interventional procedures for comprehensive heart health
-                                management
-                                with personalized treatment protocols.</p>
+                            <h3>Cardiology Department</h3>
+                            <p>
+                                Comprehensive heart care services including advanced diagnostics, preventive cardiology,
+                                and minimally invasive cardiac procedures delivered by experienced specialists.
+                            </p>
                             <div class="specialty-features">
-                                <span><i class="bi bi-check-circle-fill"></i>24/7 Emergency Cardiac Care</span>
-                                <span><i class="bi bi-check-circle-fill"></i>Minimally Invasive Procedures</span>
+                                <span><i class="bi bi-check-circle-fill"></i>24/7 Cardiac Emergency</span>
+                                <span><i class="bi bi-check-circle-fill"></i>Angiography & Angioplasty</span>
                             </div>
-                            <a href="department-details.html" class="specialty-link">
-                                Explore Cardiology <i class="bi bi-arrow-right"></i>
+                            <a href="/services" class="specialty-link">
+                                View Cardiology Services <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
                         <div class="specialty-visual">
-                            <img src="assets/img/health/cardiology-1.webp" alt="Cardiovascular Medicine"
-                                class="img-fluid">
+                            <img src="assets/img/health/cardiology-1.webp" alt="Cardiology Department" class="img-fluid">
                             <div class="visual-overlay">
                                 <i class="bi bi-heart-pulse"></i>
                             </div>
@@ -266,26 +268,28 @@
                             <div class="specialty-meta">
                                 <span class="specialty-label">Expert Care</span>
                             </div>
-                            <h3>Neurological Sciences</h3>
-                            <p>Cutting-edge neuroimaging and neurosurgical expertise for complex brain and spinal cord
-                                conditions
-                                with innovative treatment approaches.</p>
+                            <h3>Neurology Department</h3>
+                            <p>
+                                Specialized diagnosis and treatment of brain, spine, and nervous system disorders using
+                                modern neuroimaging and advanced surgical techniques.
+                            </p>
                             <div class="specialty-features">
-                                <span><i class="bi bi-check-circle-fill"></i>Advanced Brain Imaging</span>
-                                <span><i class="bi bi-check-circle-fill"></i>Robotic Surgery</span>
+                                <span><i class="bi bi-check-circle-fill"></i>Stroke & Epilepsy Care</span>
+                                <span><i class="bi bi-check-circle-fill"></i>Neuro Diagnostics</span>
                             </div>
-                            <a href="department-details.html" class="specialty-link">
-                                Explore Neurology <i class="bi bi-arrow-right"></i>
+                            <a href="/services" class="specialty-link">
+                                View Neurology Services <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
                         <div class="specialty-visual">
-                            <img src="assets/img/health/neurology-4.webp" alt="Neurological Sciences" class="img-fluid">
+                            <img src="assets/img/health/neurology-4.webp" alt="Neurology Department" class="img-fluid">
                             <div class="visual-overlay">
                                 <i class="bi bi-cpu"></i>
                             </div>
                         </div>
                     </div>
                 </div><!-- End Specialty Card -->
+
 
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="department-highlight">
@@ -301,7 +305,7 @@
                             <li>Joint Replacement</li>
                             <li>Spine Surgery</li>
                         </ul>
-                        <a href="department-details.html" class="highlight-cta">Learn More</a>
+                        <a href="/services" class="highlight-cta">Learn More</a>
                     </div>
                 </div><!-- End Department Highlight -->
 
@@ -318,7 +322,7 @@
                             <li>Developmental Pediatrics</li>
                             <li>Pediatric Surgery</li>
                         </ul>
-                        <a href="department-details.html" class="highlight-cta">Learn More</a>
+                        <a href="/services" class="highlight-cta">Learn More</a>
                     </div>
                 </div><!-- End Department Highlight -->
 
@@ -335,7 +339,7 @@
                             <li>Immunotherapy</li>
                             <li>Radiation Oncology</li>
                         </ul>
-                        <a href="department-details.html" class="highlight-cta">Learn More</a>
+                        <a href="/services" class="highlight-cta">Learn More</a>
                     </div>
                 </div><!-- End Department Highlight -->
 
@@ -354,7 +358,7 @@
                     <div class="col-lg-4 text-lg-end">
                         <a href="tel:+15551234567" class="emergency-btn">
                             <i class="bi bi-telephone-fill"></i>
-                            Call Emergency: (555) 123-4567
+                            Call Emergency: 0761 - 4070333
                         </a>
                     </div>
                 </div>
@@ -364,13 +368,14 @@
 
     </section><!-- /Featured Departments Section -->
 
+
     <!-- Featured Services Section -->
     <section id="featured-services" class="featured-services section">
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-            <h2>Featured Services</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+            <h2>Our Key Medical Services</h2>
+            <p>Advanced healthcare services delivered with compassion, precision, and modern medical technology.</p>
         </div><!-- End Section Title -->
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -380,21 +385,22 @@
                 <div class="col-lg-8" data-aos="fade-right" data-aos-delay="200">
                     <div class="featured-service-main">
                         <div class="service-image-wrapper">
-                            <img src="assets/img/health/consultation-4.webp" alt="Premier Healthcare Services"
+                            <img src="assets/img/health/consultation-4.webp" alt="Comprehensive Healthcare Services"
                                 class="img-fluid" loading="lazy">
                             <div class="service-overlay">
                                 <div class="service-badge">
                                     <i class="bi bi-heart-pulse"></i>
-                                    <span>Emergency Care</span>
+                                    <span>24×7 Emergency</span>
                                 </div>
                             </div>
                         </div>
                         <div class="service-details">
                             <h2>Comprehensive Healthcare Excellence</h2>
-                            <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in
-                                faucibus
-                                orci luctus et ultrices posuere cubilia curae donec velit neque.</p>
-                            <a href="#!" class="main-cta">Explore Our Services</a>
+                            <p>
+                                From emergency care to advanced diagnostics and specialized treatments, we provide
+                                complete medical solutions focused on patient safety and recovery.
+                            </p>
+                            <a href="/services" class="main-cta">View All Services</a>
                         </div>
                     </div>
                 </div>
@@ -408,9 +414,10 @@
                             </div>
                             <div class="service-info">
                                 <h4>Dermatology Clinic</h4>
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
-                                    egestas.</p>
-                                <a href="#!" class="service-link">Learn More</a>
+                                <p>
+                                    Expert care for skin, hair, and nail conditions with modern dermatological treatments.
+                                </p>
+                                <a href="/services" class="service-link">Learn More</a>
                             </div>
                         </div>
 
@@ -420,10 +427,10 @@
                             </div>
                             <div class="service-info">
                                 <h4>Surgery Center</h4>
-                                <p>Donec rutrum congue leo eget malesuada curabitur arcu erat accumsan id imperdiet et
-                                    porttitor at
-                                    sem.</p>
-                                <a href="#!" class="service-link">Learn More</a>
+                                <p>
+                                    Advanced operation theatres with minimally invasive and major surgical procedures.
+                                </p>
+                                <a href="/services" class="service-link">Learn More</a>
                             </div>
                         </div>
 
@@ -432,11 +439,11 @@
                                 <i class="bi bi-activity"></i>
                             </div>
                             <div class="service-info">
-                                <h4>Diagnostics Lab</h4>
-                                <p>Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui cras ultricies
-                                    ligula sed
-                                    magna.</p>
-                                <a href="#!" class="service-link">Learn More</a>
+                                <h4>Diagnostics Laboratory</h4>
+                                <p>
+                                    Accurate and timely diagnostic services including pathology, radiology, and imaging.
+                                </p>
+                                <a href="/services" class="service-link">Learn More</a>
                             </div>
                         </div>
 
@@ -456,7 +463,7 @@
                             </div>
                             <div class="specialty-content">
                                 <h5>Maternal Care</h5>
-                                <span>Expert pregnancy &amp; delivery support</span>
+                                <span>Safe pregnancy, delivery & postnatal care</span>
                             </div>
                         </div>
                     </div>
@@ -464,12 +471,12 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="specialty-card">
                             <div class="specialty-image">
-                                <img src="assets/img/health/vaccination-3.webp" alt="Vaccination" class="img-fluid"
-                                    loading="lazy">
+                                <img src="assets/img/health/vaccination-3.webp" alt="Vaccination Services"
+                                    class="img-fluid" loading="lazy">
                             </div>
                             <div class="specialty-content">
                                 <h5>Vaccination</h5>
-                                <span>Complete immunization programs</span>
+                                <span>Complete immunization for all age groups</span>
                             </div>
                         </div>
                     </div>
@@ -482,7 +489,7 @@
                             </div>
                             <div class="specialty-content">
                                 <h5>Emergency Care</h5>
-                                <span>24/7 critical care services</span>
+                                <span>Round-the-clock critical medical support</span>
                             </div>
                         </div>
                     </div>
@@ -490,12 +497,12 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="specialty-card">
                             <div class="specialty-image">
-                                <img src="assets/img/health/facilities-6.webp" alt="Advanced Tech" class="img-fluid"
-                                    loading="lazy">
+                                <img src="assets/img/health/facilities-6.webp" alt="Advanced Medical Technology"
+                                    class="img-fluid" loading="lazy">
                             </div>
                             <div class="specialty-content">
                                 <h5>Advanced Technology</h5>
-                                <span>State-of-the-art medical equipment</span>
+                                <span>Modern equipment for precise diagnosis & care</span>
                             </div>
                         </div>
                     </div>
@@ -506,6 +513,7 @@
         </div>
 
     </section><!-- /Featured Services Section -->
+
 
     <!-- Find A Doctor Section -->
     <section id="find-a-doctor" class="find-a-doctor section">
@@ -518,7 +526,7 @@
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-            <div class="row justify-content-center mb-5" data-aos="fade-up" data-aos-delay="200">
+            {{-- <div class="row justify-content-center mb-5" data-aos="fade-up" data-aos-delay="200">
                 <div class="col-lg-8 text-center">
                     <div class="search-section">
                         <h3 class="search-title">Find Your Perfect Healthcare Provider</h3>
@@ -552,7 +560,7 @@
                         </form>
                     </div>
                 </div>
-            </div>
+            </div> --}}
 
             <div class="doctors-grid" data-aos="fade-up" data-aos-delay="300">
 
@@ -661,7 +669,7 @@
 
 
             <div class="text-center mt-5" data-aos="fade-up" data-aos-delay="700">
-                <a href="doctors.html" class="btn-view-all">
+                <a href="/doctors" class="btn-view-all">
                     View All Doctors
                     <i class="bi bi-arrow-right"></i>
                 </a>
@@ -679,23 +687,30 @@
             <div class="hero-content">
                 <div class="row align-items-center">
 
+
                     <div class="col-lg-6">
                         <div class="content-wrapper" data-aos="fade-up" data-aos-delay="200">
-                            <h1>Excellence in Medical Care, Every Day</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-                                labore
-                                et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+
+                            <h1>Compassionate Medical Care You Can Trust</h1>
+
+                            <p>
+                                At Medizone Multi-Speciality Hospital, we combine experienced doctors,
+                                advanced medical technology, and a patient-first approach to deliver
+                                safe, reliable, and high-quality healthcare — every day.
+                            </p>
 
                             <div class="cta-wrapper">
-                                <a href="appointment.html" class="primary-cta">
-                                    <span>Schedule Consultation</span>
+                                <a href="/contact" class="primary-cta">
+                                    <span>Book an Appointment</span>
                                     <i class="bi bi-arrow-right"></i>
                                 </a>
-                                <a href="services.html" class="secondary-cta">
-                                    <span>Explore Services</span>
+
+                                <a href="/services" class="secondary-cta">
+                                    <span>View Our Services</span>
                                     <i class="bi bi-arrow-right"></i>
                                 </a>
                             </div>
+
                         </div>
                     </div>
 
@@ -752,7 +767,7 @@
 
             </div>
 
-            <div class="contact-block">
+            {{-- <div class="contact-block">
                 <div class="row">
 
                     <div class="col-lg-8">
@@ -775,7 +790,7 @@
                     </div>
 
                 </div>
-            </div>
+            </div> --}}
 
         </div>
 

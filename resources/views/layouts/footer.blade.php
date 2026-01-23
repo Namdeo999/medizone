@@ -6,14 +6,13 @@
             <div class="col-lg-5">
                 <div class="brand-section">
                     <a href="index.html" class="logo d-flex align-items-center mb-4">
-                        <span class="sitename">Medizone Hospital</span>
+                                    <h1 class="sitename"> <span class="text-primary">Medi</span>zone</h1>
+
                     </a>
                     <p class="brand-description">
-Delivering world-class medical care through experienced doctors, advanced technology, and ethical practices.
-</p>
-
-
-
+                        Delivering world-class medical care through experienced doctors, advanced technology, and
+                        ethical practices.
+                    </p>
                 </div>
             </div>
 
@@ -53,11 +52,6 @@ Delivering world-class medical care through experienced doctors, advanced techno
                                 </div>
                             </div>
                         </div>
-
-
-
-
-
                     </div>
                 </div>
             </div>
@@ -71,7 +65,6 @@ Delivering world-class medical care through experienced doctors, advanced techno
     <div class="container">
         <div class="bottom-content" data-aos="fade-up" data-aos-delay="300">
             <div class="row align-items-center">
-
                 <div class="col-lg-6">
                     <div class="copyright">
                         <p>© <span class="sitename">Medizone Hospital</span>. All rights reserved.</p>
