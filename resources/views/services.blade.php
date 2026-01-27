@@ -97,9 +97,9 @@
                                         <span><i class="bi bi-check-circle-fill"></i>Preventive & Lifestyle
                                             Cardiology</span>
                                     </div>
-                                    <a href="/services/cardiology" class="specialty-link">
+                                    {{-- <a href="/services/cardiology" class="specialty-link">
                                         View Cardiology Services <i class="bi bi-arrow-right"></i>
-                                    </a>
+                                    </a> --}}
                                 </div>
                                 <div class="specialty-visual">
                                     <img src="assets/img/health/cardiology-1.webp" alt="Cardiology Department"
@@ -131,9 +131,9 @@
                                         <span><i class="bi bi-check-circle-fill"></i>Emergency & Trauma Surgeries</span>
                                         <span><i class="bi bi-check-circle-fill"></i>Advanced Post-Operative Care</span>
                                     </div>
-                                    <a href="/services/general-surgery" class="specialty-link">
+                                    {{-- <a href="/services/general-surgery" class="specialty-link">
                                         View Surgery Services <i class="bi bi-arrow-right"></i>
-                                    </a>
+                                    </a> --}}
                                 </div>
                                 <div class="specialty-visual">
                                     <img src="assets/img/specialties/general-surgery.jpg" alt="General Surgery"
@@ -163,9 +163,9 @@
                                         <span><i class="bi bi-check-circle-fill"></i>Arthroscopy & Sports Injuries</span>
                                         <span><i class="bi bi-check-circle-fill"></i>Post-Surgery Rehabilitation</span>
                                     </div>
-                                    <a href="/services/orthopedics" class="specialty-link">
+                                    {{-- <a href="/services/orthopedics" class="specialty-link">
                                         View Orthopedic Services <i class="bi bi-arrow-right"></i>
-                                    </a>
+                                    </a> --}}
                                 </div>
                                 <div class="specialty-visual">
                                     <img src="assets/img/specialties/orthopedics.jpg" alt="Orthopedics" class="img-fluid">
@@ -194,9 +194,9 @@
                                         <span><i class="bi bi-check-circle-fill"></i>ICU & Ventilator Support</span>
                                         <span><i class="bi bi-check-circle-fill"></i>Rapid Trauma Response Team</span>
                                     </div>
-                                    <a href="/services/emergency" class="specialty-link">
+                                    {{-- <a href="/services/emergency" class="specialty-link">
                                         View Emergency Services <i class="bi bi-arrow-right"></i>
-                                    </a>
+                                    </a> --}}
                                 </div>
                                 <div class="specialty-visual">
                                     <img src="assets/img/specialties/trauma-care.jpg" alt="Emergency Care"
@@ -225,9 +225,9 @@
                                 <span><i class="bi bi-check-circle-fill"></i>EEG, EMG & NCV Tests</span>
                                 <span><i class="bi bi-check-circle-fill"></i>Neuro-Rehabilitation</span>
                             </div>
-                            <a href="/services/neurology" class="specialty-link">
+                            {{-- <a href="/services/neurology" class="specialty-link">
                                 View Neurology Services <i class="bi bi-arrow-right"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="specialty-visual">
                             <img src="assets/img/specialties/neurology.jpg" alt="Neurology" class="img-fluid">
@@ -256,9 +256,9 @@
                                 <span><i class="bi bi-check-circle-fill"></i>Nutrition & Growth Monitoring</span>
                                 <span><i class="bi bi-check-circle-fill"></i>Pediatric Emergency Care</span>
                             </div>
-                            <a href="/services/pediatrics" class="specialty-link">
+                            {{-- <a href="/services/pediatrics" class="specialty-link">
                                 View Pediatric Services <i class="bi bi-arrow-right"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="specialty-visual">
                             <img src="assets/img/specialties/pediatrics.jpg" alt="Pediatrics" class="img-fluid">
@@ -287,9 +287,9 @@
                                 <span><i class="bi bi-check-circle-fill"></i>Urinary Tract Infections</span>
                                 <span><i class="bi bi-check-circle-fill"></i>Endoscopic Procedures</span>
                             </div>
-                            <a href="/services/urology" class="specialty-link">
+                            {{-- <a href="/services/urology" class="specialty-link">
                                 View Urology Services <i class="bi bi-arrow-right"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="specialty-visual">
                             <img src="assets/img/specialties/urology.jpg" alt="Urology" class="img-fluid">
@@ -318,9 +318,9 @@
                                 <span><i class="bi bi-check-circle-fill"></i>Endoscopic ENT Surgery</span>
                                 <span><i class="bi bi-check-circle-fill"></i>Voice & Speech Care</span>
                             </div>
-                            <a href="/services/ent" class="specialty-link">
+                            {{-- <a href="/services/ent" class="specialty-link">
                                 View ENT Services <i class="bi bi-arrow-right"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="specialty-visual">
                             <img src="assets/img/specialties/ent.jpg" alt="ENT" class="img-fluid">
@@ -349,9 +349,9 @@
                                 <span><i class="bi bi-check-circle-fill"></i>Pain Management Therapy</span>
                                 <span><i class="bi bi-check-circle-fill"></i>Mobility & Strength Training</span>
                             </div>
-                            <a href="/services/physiotherapy" class="specialty-link">
+                            {{-- <a href="/services/physiotherapy" class="specialty-link">
                                 View Physiotherapy Services <i class="bi bi-arrow-right"></i>
-                            </a>
+                            </a> --}}
                         </div>
                         <div class="specialty-visual">
                             <img src="assets/img/specialties/physiotherapy.jpg" alt="Physiotherapy" class="img-fluid">

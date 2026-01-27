@@ -92,7 +92,7 @@
 
             <p><strong>OPD:</strong> Mon–Sat | 10AM–2PM & 6PM–9PM</p>
 
-            <a href="#!" class="btn btn-primary">Book Appointment</a>
+            <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn btn-primary">Book Appointment</a>
           </div>
         </div>
 
@@ -124,7 +124,7 @@
 
             <p><strong>OPD:</strong> Mon–Sat | 11AM–4PM</p>
 
-            <a href="#!" class="btn btn-primary">Book Appointment</a>
+            <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn btn-primary">Book Appointment</a>
           </div>
         </div>
 
@@ -156,7 +156,7 @@
 
             <p><strong>OPD:</strong> Mon–Sat | 12PM–5PM</p>
 
-            <a href="#!" class="btn btn-primary">Book Appointment</a>
+            <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn btn-primary">Book Appointment</a>
           </div>
         </div>
 

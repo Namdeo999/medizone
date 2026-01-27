@@ -162,7 +162,7 @@
                                 <span><i class="bi bi-check-circle-fill"></i>Round-the-clock Emergency Care</span>
                                 <span><i class="bi bi-check-circle-fill"></i>ICU & Critical Care Support</span>
                             </div>
-                            <a href="#" class="specialty-link">
+                            <a href="/services" class="specialty-link">
                                 Learn More <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
@@ -192,7 +192,7 @@
                                 <span><i class="bi bi-check-circle-fill"></i>Joint Replacement & Arthroscopy</span>
                                 <span><i class="bi bi-check-circle-fill"></i>Sports Injury Management</span>
                             </div>
-                            <a href="#" class="specialty-link">
+                            <a href="/services" class="specialty-link">
                                 Learn More <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
@@ -222,7 +222,7 @@
                                 <span><i class="bi bi-check-circle-fill"></i>Kidney & Prostate Care</span>
                                 <span><i class="bi bi-check-circle-fill"></i>Minimally Invasive Procedures</span>
                             </div>
-                            <a href="#" class="specialty-link">
+                            <a href="/services" class="specialty-link">
                                 Learn More <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
@@ -252,7 +252,7 @@
                                 <span><i class="bi bi-check-circle-fill"></i>Sinus & Hearing Treatments</span>
                                 <span><i class="bi bi-check-circle-fill"></i>Advanced ENT Procedures</span>
                             </div>
-                            <a href="#" class="specialty-link">
+                            <a href="/services" class="specialty-link">
                                 Learn More <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>
@@ -283,7 +283,7 @@
                                 <span><i class="bi bi-check-circle-fill"></i>Post-Surgery Rehabilitation</span>
                                 <span><i class="bi bi-check-circle-fill"></i>Mobility & Strength Programs</span>
                             </div>
-                            <a href="#" class="specialty-link">
+                            <a href="/services" class="specialty-link">
                                 Learn More <i class="bi bi-arrow-right"></i>
                             </a>
                         </div>

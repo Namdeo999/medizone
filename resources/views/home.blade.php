@@ -593,7 +593,7 @@
 
                     <div class="action-buttons">
                         <a href="/doctors#dr-puneet" class="btn-secondary">View Profile</a>
-                        <a href="#!" class="btn-primary">Book Appointment</a>
+                        <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn-primary">Book Appointment</a>
                     </div>
                 </div>
 
@@ -627,7 +627,7 @@
 
                     <div class="action-buttons">
                         <a href="/doctors#dr-rohit" class="btn-secondary">View Profile</a>
-                        <a href="#!" class="btn-primary">Consult Now</a>
+                        <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn-primary">Consult Now</a>
                     </div>
                 </div>
 
@@ -661,7 +661,7 @@
 
                     <div class="action-buttons">
                         <a href="/doctors#dr-prashant" class="btn-secondary">View Profile</a>
-                        <a href="#!" class="btn-primary">Book Consultation</a>
+                        <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn-primary">Book Consultation</a>
                     </div>
                 </div>
 
