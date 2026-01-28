@@ -43,7 +43,7 @@
                                     </div>
                                     <div class="contact-item">
                                         <i class="bi bi-telephone"></i>
-                                        <span>0761 - 4070333, 9302789333</span>
+                                        <span>+91 7617617080</span>
                                     </div>
                                     <div class="contact-item">
                                         <i class="bi bi-envelope"></i>
