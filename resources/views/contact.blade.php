@@ -89,7 +89,7 @@
                                     let subject = document.querySelector('[name="subject"]').value;
                                     let message = document.querySelector('[name="message"]').value;
 
-                                    let whatsappNumber = "919754799646"; // country code ke saath
+                                    let whatsappNumber = "917617617080"; // country code ke saath
 
                                    let whatsappMessage =
 `🌟 *New Enquiry Received* 🌟%0A%0A
@@ -122,7 +122,7 @@
                             <div class="single-info">
                                 <i class="icofont icofont-ui-call"></i>
                                 <div class="content">
-                                    <h3> 0761 - 4070333, 9302789333</h3>
+                                    <h3> +917617617080</h3>
                                     <p>medizonehospitaljbp@gmail.com</p>
                                 </div>
                             </div>

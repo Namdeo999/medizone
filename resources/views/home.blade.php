@@ -67,7 +67,8 @@
 
                         <!-- Actions -->
                         <div class="hero-actions" data-aos="fade-right" data-aos-delay="600">
-                            <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn btn-primary">Book Appointment</a>
+                            <a href="https://wa.me/917617617080?text=Hello%20I%20would%20like%20to%20book%20an%20appointment"
+                                class="btn btn-primary">Book Appointment</a>
                             <a href="/services" class="btn btn-outline glightbox">
                                 <i class="bi bi-play-circle me-2"></i>
                                 Explore Our Services
@@ -81,7 +82,7 @@
                             </div>
                             <div class="emergency-info">
                                 <small>Emergency Helpline</small>
-                                <strong>0761 - 4070333, 9302789333</strong>
+                                <strong>+917617617080</strong>
                             </div>
                         </div>
 
@@ -358,7 +359,7 @@
                     <div class="col-lg-4 text-lg-end">
                         <a href="tel:+15551234567" class="emergency-btn">
                             <i class="bi bi-telephone-fill"></i>
-                            Call Emergency: 0761 - 4070333
+                            Call Emergency: +91 7617617080
                         </a>
                     </div>
                 </div>
@@ -564,19 +565,20 @@
 
             <div class="doctors-grid" data-aos="fade-up" data-aos-delay="300">
 
-                <!-- Dr. Puneet Bhalla -->
+                <!-- Dr. Chandan kushwaha -->
                 <div class="doctor-profile" data-aos="zoom-in">
                     <div class="profile-header">
                         <div class="doctor-avatar">
-                            <img src="assets/img/doctors/dr-puneet-bhalla.png" alt="Dr. Puneet Bhalla" class="img-fluid">
+                            <img src="assets/img/doctors/dr-chandan-kushwaha.png" alt="Dr. Chandan kushwaha"
+                                class="img-fluid">
                             <div class="status-indicator available"></div>
                         </div>
                         <div class="doctor-details">
-                            <h4>Dr. Puneet Bhalla</h4>
-                            <span class="specialty-tag">General Medicine & Diabetology</span>
+                            <h4>Dr. Chandan kushwaha</h4>
+                            <span class="specialty-tag">General Medicine</span>
                             <div class="experience-info">
                                 <i class="bi bi-award"></i>
-                                <span>15+ years experience</span>
+                                <span>12+ years experience</span>
                             </div>
                         </div>
                     </div>
@@ -587,15 +589,20 @@
                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                             <i class="bi bi-star-half"></i>
                         </div>
-                        <span class="rating-score">4.8</span>
-                        <span class="review-count">(320+ patients)</span>
+                        <span class="rating-score">4.7</span>
+                        <span class="review-count">(280+ patients)</span>
                     </div>
 
                     <div class="action-buttons">
-                        <a href="/doctors#dr-puneet" class="btn-secondary">View Profile</a>
-                        <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn-primary">Book Appointment</a>
+                        <a href="/doctors#dr-chandan" class="btn-secondary">View Profile</a>
+                        <a href="https://wa.me/917617617080?text=Hello%20I%20would%20like%20to%20book%20an%20appointment%20with%20Dr.%20Chandan%20Kushawha"
+                            class="btn-primary">
+                            Book Appointment
+                        </a>
                     </div>
                 </div>
+
+
 
                 <!-- Dr. Rohit Chaturvedi -->
                 <div class="doctor-profile" data-aos="zoom-in" data-aos-delay="150">
@@ -627,7 +634,8 @@
 
                     <div class="action-buttons">
                         <a href="/doctors#dr-rohit" class="btn-secondary">View Profile</a>
-                        <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn-primary">Consult Now</a>
+                        <a href="https://wa.me/917617617080?text=Hello%20I%20would%20like%20to%20book%20an%20appointment"
+                            class="btn-primary">Consult Now</a>
                     </div>
                 </div>
 
@@ -661,7 +669,8 @@
 
                     <div class="action-buttons">
                         <a href="/doctors#dr-prashant" class="btn-secondary">View Profile</a>
-                        <a href="https://wa.me/919754799646?text=Hello%20I%20would%20like%20to%20book%20an%20appointment" class="btn-primary">Book Consultation</a>
+                        <a href="https://wa.me/917617617080?text=Hello%20I%20would%20like%20to%20book%20an%20appointment"
+                            class="btn-primary">Book Consultation</a>
                     </div>
                 </div>
 

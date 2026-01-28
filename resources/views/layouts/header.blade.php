@@ -3,7 +3,7 @@
         <div class="contact-info d-flex align-items-center">
             <i class="bi bi-envelope d-flex align-items-center"><a
                     href="mailto:contact@example.com">medizonehospitaljbp@gmail.com</a></i>
-            <i class="bi bi-phone d-flex align-items-center ms-4"><span>0761 - 4070333, 9302789333</span></i>
+            <i class="bi bi-phone d-flex align-items-center ms-4"><span>761-761-7080</span></i>
         </div>
         <div class="social-links d-none d-md-flex align-items-center">
             <a href="#!" class="twitter"><i class="bi bi-twitter-x"></i></a>
