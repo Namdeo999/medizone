@@ -45,10 +45,10 @@
                                         <i class="bi bi-telephone"></i>
                                         <span>+91 7617617080</span>
                                     </div>
-                                    <div class="contact-item">
+                                    {{-- <div class="contact-item">
                                         <i class="bi bi-envelope"></i>
-                                        <span>medizonehospitaljbp@gmail.com</span>
-                                    </div>
+                                        <span class="text-wrap">medizonehospitaljbp@gmail.com</span>
+                                    </div> --}}
                                 </div>
                             </div>
                         </div>
